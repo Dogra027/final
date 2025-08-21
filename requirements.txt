@@ -16,11 +16,12 @@ joblib>=1.5.0
 textblob>=0.19.0
 
 # Agent-based simulation
-mesa
+mesa==2.1.1
 
 # Optional: Plotly for enhanced visualizations
 plotly>=6.3.0
 
 # Optional: Tavily API for web search
 # tavily-python>=0.3.0
+
 
