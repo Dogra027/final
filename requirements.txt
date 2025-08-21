@@ -11,9 +11,10 @@ textblob
 # Machine Learning
 scikit-learn
 xgboost
-tensorflow==2.13.1
-keras==2.13.1
+tensorflow
+keras
 
 # Agent-Based Modeling
-mesa==2.1.5
+mesa
+
 
